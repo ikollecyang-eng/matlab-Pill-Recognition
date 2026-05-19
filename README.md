@@ -1,1 +1,1 @@
-# matlab-Pill-Recognition
+# matlab-Pill-Recognition（class-assignment）
